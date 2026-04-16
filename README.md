@@ -97,6 +97,7 @@ No build steps. No setup stress.
 1. User Authentication: Add a login page so only you can upload or delete photos.
 
 2. Search & Filter: Add a search bar to find photos by the "Sender" name or keywords in the description.
+3. Add the like & view photo funtioality, 
 
 - let me know more :)
 
